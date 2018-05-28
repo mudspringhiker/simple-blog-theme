@@ -6,12 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Simple Blog Theme
-email: your-email@domain.com
+title: Alona Varshal
+email: alona.varshal@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Alona Varshal: Chemistry + software developement + data
 baseurl:  # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: # change this to the base hostname & protocol for your site
 
@@ -41,20 +39,20 @@ header:
   image: /assets/patterns/symphony.png
 
 # social
-author:
-  name: "Simple Blog Theme"
-  short_bio:
-    en: Jekyll Blog Theme, Responsive, SEO and Facebook enabled
-    it: Jekyll Blog Theme, Responsive, con SEO e integrazione Facebook
-  picture: assets/img/profile-60.png
+# author:
+#   name: "Simple Blog Theme"
+#   short_bio:
+#     en: Jekyll Blog Theme, Responsive, SEO and Facebook enabled
+#     it: Jekyll Blog Theme, Responsive, con SEO e integrazione Facebook
+#   picture: assets/img/profile-60.png
 
-image: /assets/img/profile-225.png
+# image: /assets/img/profile-225.png
 
-#twitter:
-#  username:
+twitter:
+ username: avarshal
 #instagram_username:
 
-#linkedin_username: lorepirri
+linkedin_username: alona-varshal
 
 #  site:
 # facebook:
@@ -66,13 +64,15 @@ image: /assets/img/profile-225.png
 
 
 # gitlab on site
-gitlab:
-  owner_url: https://gitlab.com/lorepirri
+# gitlab:
+#   owner_url: https://gitlab.com/lorepirri
 
 # github on site
 github:
-  owner_url: https://github.com/lorepirri
+  owner_url: https://github.com/mudspringhiker
 
+disqus:
+  shortname: "datameric-com"
 
 # translation
 
@@ -99,28 +99,6 @@ t:
       october: "Oct"
       november: "Nov"
       december : "Dec"
-  it:
-    latest-posts:  "Ultimi Posts"
-    read-more:  "leggi"
-    on-word: "su"
-    contact: "Contatta"
-    contact-page: "contatta.md"
-    read-time: "min di lettura"
-    comments: "commenti"
-    go-to-home-page: "Vai alla Pagina Iniziale"
-    months:
-      january: "Gen"
-      february: "Feb"
-      march: "Mar"
-      april: "Apr"
-      may: "Mag"
-      june: "Giu"
-      july: "Lug"
-      august: "Ago"
-      september: "Set"
-      october: "Ott"
-      november: "Nov"
-      december : "Dic"
 
 defaults:
   -
