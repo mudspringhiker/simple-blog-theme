@@ -4,7 +4,7 @@ title: "Scraping Data from a PDF File"
 tags: ["parsing pdf", "RegEx", "Python"]
 ---
 
-I've recently learned how to scrape data from PDF (portable data format) files. Here, I present how to do that in Python. I googled and found the [`pdfminer`](https://pypi.python.org/pypi/pdfminer3k/) module from the PyPI website. But the book, ["Web Scraping with Python" by Ryan Mitchell](http://shop.oreilly.com/product/0636920034391.do), which I happen to have, already has codes on how to do this. I only needed to install [`pdfminer`](https://pypi.python.org/pypi/pdfminer3k/).
+I've recently learned how to scrape data from PDF (portable data format) files. Here, I present how to do that in Python. I googled and found the [`pdfminer`](https://pypi.python.org/pypi/pdfminer3k/){:target="_blank"} module from the PyPI website. But the book, ["Web Scraping with Python" by Ryan Mitchell](http://shop.oreilly.com/product/0636920034391.do), which I happen to have, already has codes on how to do this. I only needed to install [`pdfminer`](https://pypi.python.org/pypi/pdfminer3k/).
 
 ### Installing the pdfminer module (Python)
 ##### Note: I'm using a Mac

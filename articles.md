@@ -1,6 +1,7 @@
 ---
 layout: category
 title: Blog
+tagline: Things I want to remember that may be useful for others, too
 excerpt: >
   Blog Posts
 permalink: /blog.html
