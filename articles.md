@@ -12,6 +12,6 @@ order: 1
 category: articles
 ---
 
-<h2>Recent Posts</h2>
+<h2>Posts</h2>
 <div>&nbsp;</div>
 
